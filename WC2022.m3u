@@ -1,17 +1,17 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epgtut.tk/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.it999.ru/edem.xml.gz" refresh="86400" tvg-shift=0 cache=500
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTINF:-1 group-title="СПОРТ",Setanta Sports 1
+#EXTINF:-1 group-title="Сетанта",Setanta Sports 1
 http://est01.varcdn.top/setanta1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
+#EXTINF:-1 group-title="Сетанта",Setanta Sports 1 HD
 https://livetv.mylifeisgood.ml/channels/setantahd
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
+#EXTINF:-1 group-title="Сетанта",Setanta Sports 2 HD
 https://livetv.mylifeisgood.ml/channels/setantaplus
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2
+#EXTINF:-1 group-title="Сетанта",Setanta Sports 2
 http://est01.varcdn.top/setanta2/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports Ukraine HD orig
+#EXTINF:-1 group-title="Сетанта",Setanta Sports Ukraine HD orig
 https://bal.varcdn.top/setantasport/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports + UA
+#EXTINF:-1 group-title="Сетанта",Setanta Sports + UA
 https://bal.varcdn.top/setantaplusukraina/index.m3u8
 #EXTINF:-1 group-title="Спорт",1+1 Sport
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -87,43 +87,43 @@ http://212.73.75.200:8000/play/VivaroArena/index.m3u8
 http://212.73.75.200:8000/play/VivaroSport/index.m3u8
 #EXTINF:-1 group-title="Спорт",Vivaro sport +
 http://212.73.75.200:8000/play/VivaroSportPlus/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч Футбол 1
+#EXTINF:-1 group-title="MatchTV",Матч Футбол 1
 http://95.183.43.237:8080/258/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч Футбол 2
+#EXTINF:-1 group-title="MatchTV",Матч Футбол 2
 http://95.183.43.237:8080/259/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч Футбол 3
+#EXTINF:-1 group-title="MatchTV",Матч Футбол 3
 http://95.183.43.237:8080/260/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5bfde97e9057b0ccebd05c7f40a350b8.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5bfde97e9057b0ccebd05c7f40a350b8.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
 https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/12104.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://only4.tv/ch/12104.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
 http://193.233.9.49/streams/media/Match_Arena_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/581.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5b7878bb6c93dcad64d9cb4ca06a4671.png" channelId="81" tvg-id="match-boets",Матч! БОЕЦ
+#EXTINF:-1 group-title="MatchTV" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/581.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5b7878bb6c93dcad64d9cb4ca06a4671.png" channelId="81" tvg-id="match-boets",Матч! БОЕЦ
 http://46.19.100.174:4450/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1303.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://only4.tv/ch/1303.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
 http://193.233.9.49/streams/media/Match_Igra/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1403.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/a2a723156dc6caf79c8a206618e08bbd.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://only4.tv/ch/1403.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/a2a723156dc6caf79c8a206618e08bbd.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
 http://85.11.144.9:4222/MatchPremier?token=test
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1403.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/a2a723156dc6caf79c8a206618e08bbd.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://only4.tv/ch/1403.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/a2a723156dc6caf79c8a206618e08bbd.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://tv.nalench.com/uploads/screenshots/match_premier.png" logo="https://img15.lostpic.net/2019/09/10/eab7643c537e4bc0317379b07e0ded74.png" channelId="277" tvg-id="match-premier",Матч! Премьер
+#EXTINF:-1 group-title="MatchTV" tvg-logo="https://tv.nalench.com/uploads/screenshots/match_premier.png" logo="https://img15.lostpic.net/2019/09/10/eab7643c537e4bc0317379b07e0ded74.png" channelId="277" tvg-id="match-premier",Матч! Премьер
 http://193.233.9.49/streams/media/Match_Premer/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/842c7544fb005dad50c9225c8fe6e9bf.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f3bfd54afc6dc4e4e7ec1b271e7e734f.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна HD
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/842c7544fb005dad50c9225c8fe6e9bf.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f3bfd54afc6dc4e4e7ec1b271e7e734f.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна HD
 https://bl.uma.media/live/291661/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5bfde97e9057b0ccebd05c7f40a350b8.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ HD
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5bfde97e9057b0ccebd05c7f40a350b8.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
 http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
 http://iptv.ktkru.ru:8003/index.m3u8?bw942893223590.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1305.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://only4.tv/ch/1305.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
 http://95.217.196.109:8081/russia/match_futbol_1_sd_new/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1305.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://only4.tv/ch/1305.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
 https://s04.watcher.uz/21/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ:37
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/69edf6e78519574ecc43a1e3d172706f.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51A_D_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/69edf6e78519574ecc43a1e3d172706f.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51A_D_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2
 http://95.217.196.109:8081/russia/match_futbol_2_sd_new/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/69edf6e78519574ecc43a1e3d172706f.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51A_D_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/69edf6e78519574ecc43a1e3d172706f.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51A_D_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2
 https://s04.watcher.uz/22/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ:38
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/96050371f8ff6bdeba834209e420e551.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51B_D_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3
+#EXTINF:-1 group-title="MatchTV" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/96050371f8ff6bdeba834209e420e551.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51B_D_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3
 http://95.217.196.109:8081/russia/match_futbol_3_sd_new/playlist.m3u8
