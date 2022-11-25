@@ -328,4 +328,131 @@ http://srv-6-streaming.iptvin.site:8080/TSN-3/index.m3u8?token=2e4dcd3c943986369
 http://srv-4-streaming.iptvin.site:8080/TSN4/video.m3u8?token=55a4ee79d95f479eb092d1a8e0f521005e8acfb4-4339835385-1669406364-1669363164
 #EXTINF:-1 group-title="WC2022" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn5-192.png" logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" channelId="-1" tvg-id="tsn5-ca",TSN 5
 http://srv-5-streaming.iptvin.site:34768/TSN5/video.m3u8?token=1b6da9a399b20f8624c232d2461574dafc6b47eb-4339835385-1669406364-1669363164
+#EXTM3U url-tvg="https://gabbarit.page.link/epg7" playlist-name="GLANZ" catchup-type="flussonic" catchup-time="259200" 
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Eleven Sports 1 4K
+http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Eleven Sports 1 HD
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Eleven Sports 2 HD
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Eleven Sports 3 HD
+http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Eleven Sports 4 HD
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",UK: BT Sport 1 HD
+http://cdn.spmr.tv:8080/g78fqx/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",UK: BT Sport 2 HD
+http://cdn.spmr.tv:8080/4q4jwd/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",US: NHL Network HD
+http://cdn.spmr.tv:8080/7sh8hg/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: Sky Sport Premier League HD
+http://cdn.spmr.tv:8080/8wgc3x/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: Sky Sport Bundesliga HD
+http://cdn.spmr.tv:8080/8fdwa8/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: Sky Sport Top Event HD
+http://cdn.spmr.tv:8080/8j5pdc/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: Sky Sport Bundesliga UHD
+http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",SW: V Sport UltraHD
+http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PT: Sport TV 1 HD
+http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PT: Sport TV 2 HD
+http://cdn.spmr.tv:8080/5k21z3/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",SW: V Sport Vinter HD
+http://cdn.spmr.tv:8080/z4fc73/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",US: UFC Network HD
+http://cdn.spmr.tv:8080/a9q7jf/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: DAZN 1 HD
+http://cdn.spmr.tv:8080/1w7fof/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: DAZN 2 HD
+http://cdn.spmr.tv:8080/59wz8q/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",MD: Setanta Sports Moldova HD
+http://cdn.spmr.tv:8080/x7mh44/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PL: Polsat Sport HD
+http://cdn.spmr.tv:8080/3yyp7o/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PL: Polsat Sport News HD
+http://cdn.spmr.tv:8080/w8e2g1/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PL: Polsat Sport Extra HD
+http://cdn.spmr.tv:8080/al5yw5/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PL: Polsat Sport Fight HD
+http://cdn.spmr.tv:8080/4m36d4/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Polsat Sport Premium 1 HD
+http://cdn.spmr.tv:8080/sy0x1x/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Polsat Sport Premium 2 HD
+http://cdn.spmr.tv:8080/j48ke9/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Polsat Sport Premium 3 HD
+http://cdn.spmr.tv:8080/r53dyn/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Polsat Sport Premium 4 HD
+http://cdn.spmr.tv:8080/s1wd9a/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Polsat Sport Premium 5 HD
+http://cdn.spmr.tv:8080/q8i3e6/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: Polsat Sport Premium 6 HD
+http://cdn.spmr.tv:8080/gx0a3k/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",ES: DAZN 1 HD
+http://cdn.spmr.tv:8080/8l9bx2/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",ES: DAZN 2 HD
+http://cdn.spmr.tv:8080/84l8r1/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",ES: DAZN F1 HD
+http://cdn.spmr.tv:8080/8d5k1t/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PT: Eleven Sports 1 HD
+http://cdn.spmr.tv:8080/z95bsa/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PT: Eleven Sports 2 HD
+http://cdn.spmr.tv:8080/6moy9u/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PT: Eleven Sports 3 HD
+http://cdn.spmr.tv:8080/4se9ri/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PT: Eleven Sports 4 HD
+http://cdn.spmr.tv:8080/w47jdo/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PT: Eleven Sports 5 HD
+http://cdn.spmr.tv:8080/76m0ey/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",PT: Eleven Sports 6 HD
+http://cdn.spmr.tv:8080/6sxq1t/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RO: DIGI Sport 1 HD
+http://cdn.spmr.tv:8080/co3k2z/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RO: DIGI Sport 2 HD
+http://cdn.spmr.tv:8080/h4jgxs/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RO: DIGI Sport 3 HD
+http://cdn.spmr.tv:8080/hmx73d/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RO: DIGI Sport 4 HD
+http://cdn.spmr.tv:8080/m0e9d8/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",NL: ZIGGO Sport Golf HD
+http://cdn.spmr.tv:8080/eds7a5/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: Sky Sport Golf HD
+http://cdn.spmr.tv:8080/a80e5f/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DSTV: SuperSport Golf HD
+http://cdn.spmr.tv:8080/zjut86/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",ES: Movistar Golf HD
+http://cdn.spmr.tv:8080/5ggsz7/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: Sky Sport Tennis HD
+http://cdn.spmr.tv:8080/xyk7z9/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",ES: DAZN La Liga HD
+http://cdn.spmr.tv:8080/bxw70g/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",ES: DAZN La Liga 2 HD
+http://cdn.spmr.tv:8080/7j8qen/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",FR: Blue Sport Zoom HD
+http://cdn.spmr.tv:8080/d8oefx/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",DE: Sky Sport UHD
+http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022" catchup-enable="1"  tvg-logo="",PL: TVP 4k
+http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",IT: Rai 4k
+http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RO: DIGI 4k
+http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",TR: TRT 4k
+http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",IL: Sport5 4k
+http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RU: Матч! Футбол 1 HD
+http://cdn.spmr.tv:8080/f6x6no/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RU: Матч! Футбол 2 HD
+http://cdn.spmr.tv:8080/t2czx3/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RU: Матч! Футбол 3 HD
+http://cdn.spmr.tv:8080/nb2pq7/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",US: SuperSport 4k World CUP
+http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RU: Матч! HD
+http://cdn.spmr.tv:8080/wi37gw/video.m3u8?token=WYPW6GSH4H
+#EXTINF:0 group-title="WC2022"   tvg-logo="",RU: Матч! 4k
+http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=WYPW6GSH4H
 
