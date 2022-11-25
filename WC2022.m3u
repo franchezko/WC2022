@@ -9,10 +9,6 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1 group-title="Сетанта",Setanta Sports 2
 http://est01.varcdn.top/setanta2/index.m3u8
-#EXTINF:-1 group-title="Сетанта",Setanta Sports Ukraine HD orig
-https://bal.varcdn.top/setantasport/index.m3u8
-#EXTINF:-1 group-title="Сетанта",Setanta Sports + UA
-https://bal.varcdn.top/setantaplusukraina/index.m3u8
 #EXTINF:-1 group-title="Спорт",1+1 Sport
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",A Spor TV Canl
